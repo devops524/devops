@@ -1,0 +1,14 @@
+Automatic Scans
+Identity management/Access control
+Automated Testing
+Dashboard/Metrics/Reporting
+Notifications
+Monitoring
+Administration/Pipeline Management
+Containerization, if possible
+Builds should happen very fast
+Support Feature Branching/Hot fixing
+Pipeline should be capable to deploy till Production automatically.
+People mindset should change (one of the most important)
+Entire Pipeline should be automated, no manual configuration should be allowed.
+Delegated Governance, Teams delivering a service are responsible for operating the service
